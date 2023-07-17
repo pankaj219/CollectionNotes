@@ -14,10 +14,10 @@ It is made up by the implementation of List.
 
  Syntax
  ======
- LinkedList<String> list=new LinkedList<String>();
+ List<String> list=new ArrayList<String>();
  
 LinkedList
-##########
+==========
 It is made up of the implementation of List and Deque(Double ended Queue)
 ====================================================================
 
