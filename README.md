@@ -3,10 +3,10 @@ Methods of collection
 =====================
 java.util.Collection:
 
-1.boolean add(E element): Adds an element to the collection.
-2.boolean remove(Object element): Removes the specified element from the collection.
-3.boolean contains(Object element): Checks if the collection contains the specified element.
-4.int size(): Returns the number of elements in the collection.
+1.boolean add(E element): Adds an element to the collection.......
+2.boolean remove(Object element): Removes the specified element from the collection......
+3.boolean contains(Object element): Checks if the collection contains the specified element....
+4.int size(): Returns the number of elements in the collection.....
 5.boolean isEmpty(): Checks if the collection is empty.
 6.Iterator<E> iterator(): Returns an iterator to iterate through the elements of the collection.
 
